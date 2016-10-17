@@ -23,6 +23,10 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ### laws-eu
 
+## articles
+
+- [WSJ - If You Get Paid to Tweet, Disclose it, U.K. Says](http://blogs.wsj.com/digits/2011/01/10/if-you-get-paid-to-tweet-disclose-it-uk-says/)
+- [Guardian - Twitter endorsements face OFT clampdown](https://www.theguardian.com/technology/2011/jan/09/oft-clampdown-covert-twitter-endorsements)
 
 ## Last Remarks
 
