@@ -27,7 +27,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ### laws-eu
 
-- [Gov.uk Guidelines](https://www.gov.uk/government/publications/online-reviews-and-endorsements-advice-for-businesses/online-endorsements-being-open-and-honest-with-your-audience): Online endorsements: being open and honest with your audience
+- [Gov.uk Guidelines](https://www.gov.uk/government/publications/online-reviews-and-endorsements-advice-for-businesses/online-endorsements-being-open-and-honest-with-your-audience): Online Endorsements: Being Open and Honest With Your Audience
 
 ## ethics
 
@@ -36,6 +36,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 ## articles
 
 - [PRSA.org](http://prsay.prsa.org/2009/10/09/the-new-ftc-guidelines-cutting-through-the-clutter/): The New FTC Guidelines: Cutting through the Clutter
+- [termsfeed.com](https://termsfeed.com/blog/ways-you-can-disclose-endorsements/): 8 Ways you can Disclose Endorsements
 - [WSJ](http://blogs.wsj.com/digits/2011/01/10/if-you-get-paid-to-tweet-disclose-it-uk-says/): If You Get Paid to Tweet, Disclose it, U.K. Says
 - [Guardian](https://www.theguardian.com/technology/2011/jan/09/oft-clampdown-covert-twitter-endorsements): Twitter endorsements face OFT clampdown
 - [Michael Hyatt](https://michaelhyatt.com/five-ways-to-comply-with-the-new-ftc-guidelines-for-bloggers.html): Five Ways to Comply with the New FTC Guidelines for Bloggers
