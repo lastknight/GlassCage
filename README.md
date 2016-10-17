@@ -5,7 +5,9 @@
 
 > A collaborative effort for a better Influencer's Transparency
 
-I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
+I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.  
+  
+You can look at this page on the simple domain [GlassCage.org](www.glasscage.org).
 
 ## Table of Contents
 
